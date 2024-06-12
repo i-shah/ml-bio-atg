@@ -19,7 +19,7 @@ Email: [shah.imran@epa.gov](mailto:shah.imran@epa.gov)
 
 ## Overview 
 
-<img src="figs/Slide1.jpg" alt="Bioactivity Graph" width="500">
+<img src="figs/Slide1.jpg" alt="Bioactivity Graph" width="800">
 
 
 
